@@ -2,7 +2,10 @@ html {
     align-content: center;
     margin: 0% 10% 0% 10%;
     background-image: url("/images/bg_image.png");
-    
+}
+
+*:hover {
+    background-color: yellow;
 }
 
 #main-container {
