@@ -1,0 +1,38 @@
+html {
+    align-content: center;
+    margin: 0% 10% 0% 10%;
+    background-image: url("/images/bg_image.png");
+    
+}
+
+#main-container {
+    border: 10px white solid;
+    background-color: white;
+}
+
+#main-definition {
+    border: none;
+    text-align: right;
+    background-color: #A8F0F0;
+}
+
+#main-definition>h2 {
+    border: none;
+    font-size: 14pt;
+}
+
+.page-content-definition {
+    border: 4px #C2E9E9 solid;
+    background-color: #E8FBFB;
+    padding: 5px 5px 5px 5px;
+    margin: 10px 0px 0px 0px;
+    overflow: hidden;
+}
+
+.content-image {
+    float: right;
+}
+
+.time {
+    border-bottom: 2px blue dashed;
+}
